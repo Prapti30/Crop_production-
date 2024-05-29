@@ -36,4 +36,5 @@ Visualization:
 Bar plot showing the distribution of crop production across different states.
 Stacked bar plot illustrating the production of major crops over different seasons for the top five crops.
 Heatmap showing the production of the top 10 crops across states and years.
+
 Each analysis step involves filtering, grouping, and aggregating the data to extract meaningful insights, followed by visualizing the results to better understand the trends and patterns in the dataset.
